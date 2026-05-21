@@ -205,7 +205,7 @@ beijing-pm25-time-series-forecasting/
 │   └── training_pollution_timeseries.png
 ├── outputs/
 │   ├── regression_summary.txt
-│   └── reproduction_metrics.csv
+│   └── baseline_metrics.csv
 ├── report/
 └── src/
     ├── data_preprocessing.py
