@@ -3,8 +3,8 @@
 Dep. Variable:              pollution   R-squared:                       0.914
 Model:                            OLS   Adj. R-squared:                  0.914
 Method:                 Least Squares   F-statistic:                 5.129e+04
-Date:                Thu, 21 May 2026   Prob (F-statistic):               0.00
-Time:                        18:29:34   Log-Likelihood:            -2.0595e+05
+Date:                Tue, 26 May 2026   Prob (F-statistic):               0.00
+Time:                        11:21:13   Log-Likelihood:            -2.0595e+05
 No. Observations:               43653   AIC:                         4.119e+05
 Df Residuals:                   43643   BIC:                         4.120e+05
 Df Model:                           9                                         
